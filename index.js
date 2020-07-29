@@ -23,4 +23,4 @@ function submitData(userName, userEmail){
     })
 
 }
-© 2020 GitHub, Inc.
+
